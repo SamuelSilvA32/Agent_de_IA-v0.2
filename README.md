@@ -85,6 +85,8 @@ Agente_demo_0.2/
 ```
 
 ---
+  “Este projeto utiliza uma chave de API. Configure um arquivo .env com sua chave. Para mais detalhes, veja a seção de Configuração.”
+
 
 ## 📄 Licença
 
