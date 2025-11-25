@@ -1,5 +1,7 @@
 
 
+
+
 # 🧠 agenteV0.2
 
 ## 📌 Visão Geral
@@ -81,12 +83,12 @@ Agente_demo_0.2/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
+├── CONFIGURACAO.md
+├── SOBRE_O_PROMPT.md
 └── .env  # não versionado
 ```
-
+ *“Este projeto utiliza uma chave de API. Configure um arquivo .env com sua chave. Para mais detalhes, veja a seção de Configuração.”*
 ---
-  “Este projeto utiliza uma chave de API. Configure um arquivo .env com sua chave. Para mais detalhes, veja a seção de Configuração.”
-
 
 ## 📄 Licença
 
